@@ -1,0 +1,66 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: assets/com.example.empty.art
+SHA1-Digest: 93HIQF5cBPXeKqSMnYK1TdpoP5k=
+
+Name: assets/bangcleplugin/container.apk
+SHA1-Digest: KJygBacrdI0v3G8KfOK+rdOjx4Y=
+
+Name: assets/libsecmain.so
+SHA1-Digest: nL/dS9hb/MI6HpbITpGr30C6PvM=
+
+Name: assets/meta-data/rsa.sig
+SHA1-Digest: P93FC/UMS0peorBlgyRWpQguejk=
+
+Name: assets/libsecpreload.x86.so
+SHA1-Digest: bwxSqsr1XB6swnuIEyEWESvaFEY=
+
+Name: resources.arsc
+SHA1-Digest: YZDdc2WWCmE0/4Jq/xI8d4Iaz84=
+
+Name: classes.dex
+SHA1-Digest: aBVgJiZI0+QkUDEOsYBOutnQxrs=
+
+Name: assets/libsecexe.so
+SHA1-Digest: 37CGCIQ2th47/wMl458z8X+cLZs=
+
+Name: assets/com.example.empty.x86
+SHA1-Digest: 6Q3th5GtQ6V5WMM2eaopI5bwYjU=
+
+Name: res/layout/main.xml
+SHA1-Digest: KwwMIDka8yWSMcP+k65ACfdv6aM=
+
+Name: assets/meta-data/manifest.mf
+SHA1-Digest: 1plgf+RSYceKqUCKE5bYP+xYNDI=
+
+Name: assets/com.example.empty.x86.L
+SHA1-Digest: jGQJCevHV3KT66UxkK4E7MK7JzM=
+
+Name: AndroidManifest.xml
+SHA1-Digest: lNreTFz63R2RT60zJxF4qJVKFQQ=
+
+Name: assets/com.example.empty
+SHA1-Digest: 8TQYYZTe0g0WC4eHF0wC1CAaPiw=
+
+Name: assets/bangcle_classes.jar
+SHA1-Digest: zh+l93NDpI8gGIdp2/u4U5xWYZM=
+
+Name: assets/meta-data/rsa.pub
+SHA1-Digest: JMB3RUXU+mvM2n225YPche4pVkc=
+
+Name: assets/com.example.empty.L
+SHA1-Digest: 2ubTzCKgfB2Nsg9rSdYMBycZmgA=
+
+Name: assets/libsecmain.x86.so
+SHA1-Digest: W/NRyOLhU41ORWUb8Y4hyIbfMVM=
+
+Name: assets/libsecpreload.so
+SHA1-Digest: tmooqWmrpMPNafyW2N3OYGUhA68=
+
+Name: assets/bangcleplugin/dgc
+SHA1-Digest: WTSLFApwUZZ+DNz6TP8pHJxY05Q=
+
+Name: assets/libsecexe.x86.so
+SHA1-Digest: QYdkTdZKNv8TwuMXKNL1KTkSgvc=
+

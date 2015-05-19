@@ -1,0 +1,22 @@
+{
+    "last_modified": "2014-01-01 05:17:28", 
+    "digest": "c557d4145460e55c276b65d0b49482cc", 
+    "plugins": {
+        "container": {
+            "version": 111, 
+            "min_container_version": 1, 
+            "name": "container", 
+            "full_name": "neo.container.impl.SimContainer", 
+            "triggers": {
+                "com.secneo.plugin.action.APP_STARTED": "default_task", 
+                "android.net.conn.CONNECTIVITY_CHANGE": "default_task", 
+                "android.intent.action.ACTION_POWER_CONNECTED": "default_task"
+            }, 
+            "url": "http://sdk.appgenuine.com:8088/dex/container_111.dex", 
+            "file_name": "container.apk", 
+            "min_sdk_version": 1, 
+            "min_version_code": 0, 
+            "digest": "387c50ef813e9138c6ffa4d3c607b1d9"
+        }
+    }
+}

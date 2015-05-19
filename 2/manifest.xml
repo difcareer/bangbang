@@ -1,0 +1,145 @@
+<xml.dom.minidom.Document instance at 0x10ddf7d40>
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:versionCode="1" android:versionName="1.0" package="com.example.empty" platformBuildVersionCode="10" platformBuildVersionName="2.3.3" xmlns:android="http://schemas.android.com/apk/res/android">
+	
+
+	<uses-sdk android:minSdkVersion="10">
+</uses-sdk>
+	
+
+	<application android:debuggable="true" android:label="@7F030000" android:name="com.bangcle.protect.ApplicationWrapper">
+		
+
+		<activity android:label="@7F030000" android:name="MyActivity">
+			
+
+			<intent-filter>
+				
+
+				<action android:name="android.intent.action.MAIN">
+</action>
+				
+
+				<category android:name="android.intent.category.LAUNCHER">
+</category>
+				
+
+			</intent-filter>
+			
+
+		</activity>
+		
+
+		<service android:name=".TestService">
+</service>
+		
+
+		<meta-data android:name="BANGCLE_SDK_VERSION" android:value="1005">
+</meta-data>
+		
+
+		<meta-data android:name="BANGCLE_APP_KEY" android:value="web_178824">
+</meta-data>
+		
+
+		<receiver android:exported="false" android:name="neo.proxy.DistributeReceiver">
+			
+
+			<intent-filter>
+				
+
+				<action android:name="android.intent.action.ACTION_POWER_CONNECTED">
+</action>
+				
+
+				<action android:name="com.secneo.plugin.action.HOURLY">
+</action>
+				
+
+				<action android:name="com.secneo.plugin.action.DAILY">
+</action>
+				
+
+				<action android:name="com.secneo.plugin.action.APP_STARTED">
+</action>
+				
+
+				<action android:name="android.net.conn.CONNECTIVITY_CHANGE">
+</action>
+				
+
+				<action android:name="com.secneo.proxy.action.CUSTOM">
+</action>
+				
+
+			</intent-filter>
+			
+
+		</receiver>
+		
+
+		<service android:exported="false" android:name="neo.proxy.FastService">
+</service>
+		
+
+		<activity android:configChanges="0x000000A0" android:excludeFromRecents="true" android:launchMode="3" android:name="neo.proxy.ToolActivity" android:theme="@android:0103000B">
+			
+
+			<intent-filter>
+				
+
+				<action android:name="com.secneo.proxy.action.CUSTOM">
+</action>
+				
+
+				<category android:name="android.intent.category.DEFAULT">
+</category>
+				
+
+			</intent-filter>
+			
+
+		</activity>
+		
+
+	</application>
+	
+
+	<uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.READ_PHONE_STATE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.GET_TASKS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.WRITE_SETTINGS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.INTERNET">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE">
+</uses-permission>
+	
+
+</manifest>
+
